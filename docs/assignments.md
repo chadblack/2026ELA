@@ -26,4 +26,8 @@ There will be two exams-- a midterm and a final.
 
 # film reaction (20%) 
 
-We have three feature-length film options this semester-- **La otra conquista**, **Zama**, and **The Mission**. Students must write a 3-5 page analysis of one of these films. The analysis must compare the film to an assigned reading from this semester. There are specific instructions for each film to help you under [[Course Resources]].
+We have two feature-length film options this semester-- **La otra conquista** and **The Mission**. Students must write a 3-5 page analysis of one of these films. The analysis must compare the film to an assigned reading from this semester. There are specific instructions for each film to help you:
+
+* [La Otra Conquista]()
+* [The Mission]()
+

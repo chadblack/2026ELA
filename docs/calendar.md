@@ -19,6 +19,8 @@ In addition to taking notes during lecture, you need to be an active reader of t
 
 Your most fundamental skill for this semester will be creatively connecting the lectures and the readings, looking for thematic similarities or arguments both within a week’s topic and between weeks. Make sure to look at each week’s title, and the brief comments comment for the week to help follow the arc of the semester.
 
+Here are [my recommmendations for taking notes!](https://chadblack.net/2026ELA/note-taking/)
+
 **Tuesday: The Time of History**
 
 - Read the website/syllabus very carefully!
@@ -221,4 +223,4 @@ Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re
 
 **FINAL EXAM:** 
 
-WEDNESDAY, DECEMBER 11 from 8:00a-10:15a.
+DECEMBER 9th from 8:00a-10:15a.

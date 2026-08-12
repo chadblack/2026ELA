@@ -12,6 +12,17 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Syllabus: syllabus.md
+  - Assignments: assignments.md
+  - Calendar: calendar.md
+  - Films:
+    - the mission.md
+    - la otra conquista.md
+
 
 plugins:
   - search

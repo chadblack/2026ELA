@@ -45,7 +45,7 @@ In 1492, Columbus sailed the ocean blue and discovered or destroyed, conquered o
 
 # Course Requirements
 
-Students are required to engage in this class. Learning is an interactive process, and requires active participation by all members of the class. Students need to read, write, and attend class in order to be successful. These [[255_ELA/2025ELA/content/Course Info/assignments]] are designed to contribute to the overall objectives of the semester, including both content-specific and skill-based goals. We also have a weekly [[calendar]] with specific topics and readings.
+Students are required to engage in this class. Learning is an interactive process, and requires active participation by all members of the class. Students need to read, write, and attend class in order to be successful. These [assignments](https://chadblack.net/2026ELA/assignments/) are designed to contribute to the overall objectives of the semester, including both content-specific and skill-based goals. We also have a weekly [calendar](https://chadblack.net/2026ELA/calendar/) with specific topics and readings.
 
 
 # Policies
