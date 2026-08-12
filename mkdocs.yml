@@ -1,1 +1,21 @@
-site_name: My Docs
+site_name: HILA255/LAC251 Introduction to Early Latin America
+site_url: https://chadblack.net/2026ELA/
+site_author: Chad Black
+site_description: A chad_black production
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+
+plugins:
+  - search
+
+# Copyright
+copyright: Copyright &copy; 2026 Chad Black
+
