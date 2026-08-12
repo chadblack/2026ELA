@@ -10,7 +10,7 @@ FALL 2026
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu  
 **Office:** SMC 621  
-**Drop-in Hours:** Tuesday 2:30-4:30, or by appointment  
+**Drop-in Hours:** Tuesday 1:00p-3:00p, or by appointment  
 
 **TA Info:**  
 
@@ -19,7 +19,9 @@ FALL 2026
 
 
 **Mr. John Morden**  
-**Email:**  jmorden2@vols.utk.edu
+**Email:**  jmorden2@vols.utk.edu  
+**Office:** SMC 602  
+**Drop-in Hours:** Tuesday 9:00a-11:00a, or by appointment
  
 
 # Course Description
