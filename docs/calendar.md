@@ -27,7 +27,13 @@ Here are [my recommmendations for taking notes!](https://chadblack.net/2026ELA/n
 
 **Thursday: On Sedentary Societies**
 
-- Kojin Karatani, *Structure of World History*,  5-10, 35-49.
+
+> **Reading question**   
+> How does the organization of exchange effect or reflect other aspects of a given society? What does Karatani mean by 'mode of exchange'? What are the basic modes of exchange that he identifies? What values do they represent? Can you imagine current examples of those modes at work?
+
+
+- Karatani, Kojin. *The Structure of World History*. Duke University Press. Pp. 5-10, 35-49. [Library copy](https://ebookcentral.proquest.com/lib/utk/reader.action?docID=1647715&ppg=1&c=UERG). If that link doesn't work, try [this one](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/bcmt7h/alma9924986230102311)
+
 
 ## Week Two: Premodern Societies II (Aug 25- Aug 27)
 
@@ -87,16 +93,14 @@ Prior to sailing across the Atlantic, Columbus learned from Portuguese and Spani
 
 **Tuesday: Caribbean Conquests**
 
-- Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.
-    
+- Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.   
 - The Requerimiento
-    
-- Antonio Montesinos, “Advent Sermon”
     
 
 **Thursday: The Critique**
 
 - Townsend, _Fifth Sun_, pp. 59-84.
+- Antonio Montesinos, “Advent Sermon”
 
 
 ## Week Six: On the Mainland (Sep 22-Sep 24)
@@ -155,7 +159,7 @@ Enslavement was not the only form of coerced labor exploited by Iberian empires.
 
 **Tuesday: The Many Kinds of Economic Coercion**
 
-- Ward Stavig, The World of Túpac Amaru, Ch. 6.
+- Barragán, Rossana. (2017). "Working Silver for the World: Mining Labor and Popular Economy in Colonial Potosí." *Hispanic American Historical Review* (97.2): 193-222. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_proquest_journals_1950068658)
 
 **Thursday: Wither the Two Republics?**
 
@@ -167,7 +171,7 @@ This week, we are focusing on family, sexuality, and social order. The customs a
 
 **Tuesday: Sex in the Archive**
 
-- Zeb Tortorici, “Impulses in the Archive: Misinscription and Voyeurism,” Chapter 2 in Sins Against Nature (Duke University Press, 2018).
+- Black, Chad. "Negotiating Adultery in Colonial Quito," Pp 171-179 in *The Routledge Companion to Sexuality and Colonialism*.
 
 **Thursday: Is it Love, or Magic?**
 
@@ -182,7 +186,7 @@ VOTE!
 
 **Thursday: No class.**
 
-Finish your film review, which must be smart, clever, and plugged in to this semester’s themes.
+Finish your film review, which must be smart, clever, and plugged into this semester's themes rather than AI slop.
 
 **DUE: FILM REVIEW**
 
@@ -207,19 +211,26 @@ The crises of the Bourbon reforms never produced independence movements. That wo
 
 **Tuesday: Did Anyone See It Coming?**
 
-- Jaime E. Rodríguez O., “New Spain and the 1808 Crisis of Spanish Monarchy,” Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287.
+- Chad Thomas Black (2025) On private and public violence: Joseph García de León y Pizarro’s ideology of rule (1780), *Colonial Latin American Review*, 34:2, 235-257. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/9go8o8/cdi_informaworld_taylorfrancis_310_1080_10609164_2025_2504300)
 
-**Thursday: On to War**
+**Thursday: Did Anyone See It Coming?**
 
-- John Charles Chasteen, "Independence" in *Born in Fire and Blood*.
-
+- Jaime E. Rodríguez O., “New Spain and the 1808 Crisis of Spanish Monarchy,” Mexican Studies/Estudios Mexicanos, 24.2 (Summer 2008): 245-287. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/1hkk4oh/cdi_jstor_primary_30131320)
 ## Week Fifteen: Thanksgiving (Nov 24-Nov 26)
 
 Safe travels. See your peoples. I’ll only add something this week for outside of class if we fall behind.
 
+**Tuesday: Travel Safely.**
+
+**Thursday: Eat food and manage family.**
+
 ## Week Sixteen: New World Orders (Dec 1)
 
 Let’s Wrap.It.Up. The new republics will be free of Iberian rule, and you’re about to be free of this semester….
+
+**Tuesday: Wrap. It. up.**
+
+* No reading for our final meeting.
 
 **FINAL EXAM:** 
 
