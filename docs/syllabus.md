@@ -9,14 +9,16 @@ FALL 2026
 
 **Prof. Chad Black**  
 **Email:** cblack6@utk.edu  
-**Office:** SMC 621  
+**Office:** SMC 621  (Stokely Management Center, aka the Spam Can)
 **Drop-in Hours:** Tuesday 1:00p-3:00p, or by appointment  
 
 **TA Info:**  
 
 **Mr. Ryan Lozano**  
 **Email:** rlozano1@vols.utk.edu  
-
+**Office:** SMC 602  
+**Drop-in Hours:** Monday 12:00p-2:00p, or by appointment 
+ 
 
 **Mr. John Morden**  
 **Email:**  jmorden2@vols.utk.edu  
