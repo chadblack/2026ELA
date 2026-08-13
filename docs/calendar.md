@@ -43,13 +43,13 @@ This week we look at commonalities among most premodern societies, and then at t
 
 **Tuesday: The Persistence of Semi-Sedentary Living**
 
-- Townsend, _Fifth Sun_, pp. 1-32.
+- Townsend, _Fifth Sun_, pp. 1-32. (Canvas/Total Access)
 
 **Thursday: The Maya**
 
-- Thompson, J. Eric. “The Meaning of Maize for the Maya.” in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91.
+- Thompson, J. Eric. “The Meaning of Maize for the Maya.” in Gilbert M. Joseph and Timothy J. Henderson, eds., The Mexico Reader: History, Culture, Politics (Durham: Duke University Press, 2002), pp. 86-91. (Canvas)
     
-- Anonymous. “The Popol Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85.
+- Anonymous. “The Popol Vuh.” In Joseph and Henderson, eds., The Mexico Reader, pp. 79-85. Canvas)
     
 - Please watch [this short video](https://utk.idm.oclc.org/login?url=https://video.alexanderstreet.com/watch/popol-vuh?account_id=14766&usage_group_id=95393) that animates part of the Popol vuh.
     
@@ -60,11 +60,11 @@ The collapse of Classical Maya society did not mean the disappearance of the May
 
 **Tuesday: Mexica**
 
-- Townsend, _Fifth Sun_, pp. 33-58
+- Townsend, _Fifth Sun_, pp. 33-58 (Canvas/TotalAccess)
 
 **Thursday: Inka**
 
-- Mary Strong, _Art, Nature, and Religion in the Central Andes_ (Austin: Univ. of Texas Press, 2012): pp. 17-58.
+- Mary Strong, _Art, Nature, and Religion in the Central Andes_ (Austin: Univ. of Texas Press, 2012): pp. 17-58. (Canvas)
 
 
 ## Week Four: Premodern Societies III (Sep 8-Sep 10)
@@ -73,18 +73,18 @@ With a foundation in the pre-Conquest Americas, this week we turn to the Iberian
 
 **Tuesday: Across the Atlantic**
 
-- “Las Siete Partidas: Laws on Jews.”
+- “Las Siete Partidas: Laws on Jews.” (Canvas)
     
-- “King Ferdinand, Marriage Concessions (1469)” in Jon Cowans, ed. Early Modern Spain: A Documentary History (Philadelphia: University of Pennsylvania Press, 2003): 7-9.
+- “King Ferdinand, Marriage Concessions (1469)” in Jon Cowans, ed. Early Modern Spain: A Documentary History (Philadelphia: University of Pennsylvania Press, 2003): 7-9. (Canvas)
     
-- “Surrender Treaty of the Kingdom of Granada (1491)” in Cowans, Early Modern Spain: 15-19.
+- “Surrender Treaty of the Kingdom of Granada (1491)” in Cowans, Early Modern Spain: 15-19. (Canvas)
     
-- “Decree of Expulsion of the Jews (1492)” in Cowans, Early Modern Spain: 20-23.
+- “Decree of Expulsion of the Jews (1492)” in Cowans, Early Modern Spain: 20-23. (Canvas)
     
 
 **Thursday: African Histories**
 
-- John K. Thornton, “The African Background,” A Cultural History of the Atlantic World, 1250–1820 (Cambridge Univ. Press, 2012), pp. 60-100.
+- John K. Thornton, “The African Background,” A Cultural History of the Atlantic World, 1250–1820 (Cambridge Univ. Press, 2012), pp. 60-100. (Canvas)
 
 
 ## Week Five: The Early Conquest (Sep 15-Sep 17)
@@ -93,14 +93,14 @@ Prior to sailing across the Atlantic, Columbus learned from Portuguese and Spani
 
 **Tuesday: Caribbean Conquests**
 
-- Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.   
-- The Requerimiento
+- Christopher Columbus’s Log, excerpted in English. Focus on period after Oct. 11.   (Canvas)
+- The Requerimiento (Canvas)
     
 
 **Thursday: The Critique**
 
-- Townsend, _Fifth Sun_, pp. 59-84.
-- Antonio Montesinos, “Advent Sermon”
+- Townsend, _Fifth Sun_, pp. 59-84. (TotalAccess)
+- Antonio Montesinos, “Advent Sermon” (Canvas)
 
 
 ## Week Six: On the Mainland (Sep 22-Sep 24)
@@ -109,14 +109,14 @@ In the 1520s and 1530s, the Spanish Empire expanded to cover much of Central and
 
 **Tuesday: Conquest Myths and Realities**
 
-- Townsend, _Fifth Sun_, pp. 85-106.
+- Townsend, _Fifth Sun_, pp. 85-106. (TotalAccess)
     
 - For a fantastic graphic novel approach to telling this story, check out the five episodes so [far written and drawn at Aztec Empire](https://www.bigredhair.com/books/aztec-empire/episode-one/). This graphic novel version of the Conquest works hard to be faithful to the visual world and recent historical scholarship on Cortes’s march from the sea.
     
 
 **Thursday: On the Planes of Cajamarca**
 
-- Townsend, _Fifth Sun_, pp. 107-128.
+- Townsend, _Fifth Sun_, pp. 107-128. (TotalAccess)
 
 
 ## Week Seven: The Order of Things (Sep 29-Oct 1)
@@ -125,11 +125,11 @@ How do you build an empire on the collapsing foundation of native society? How d
 
 **Tuesday: Building on collapsing ground**
 
-- Townsend, _Fifth Sun_, pp. 129-154.
+- Townsend, _Fifth Sun_, pp. 129-154. (Canvas)
 
 **Thursday: Church in State**
 
-- J.L Phelan, “Authority and Flexibility in the Spanish Imperial Bureaucracy” Administrative Science Quarterly, Vol. 5, No. 1, Special Issue on Comparative Public Administration. (Jun., 1960), pp. 47-65.
+- J.L Phelan, “Authority and Flexibility in the Spanish Imperial Bureaucracy” Administrative Science Quarterly, Vol. 5, No. 1, Special Issue on Comparative Public Administration. (Jun., 1960), pp. 47-65. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/1hkk4oh/cdi_econis_primary_482179511)
 
 
 ## Week Eight: Fall Break and Midterm Exam (Oct 6-Oct 8)
@@ -150,7 +150,7 @@ From its inception, the Spanish and Portuguese colonial projects depended on the
 
 **Thursday: Brazilian Development**
 
-- Jane Landers, “Felipe Edimboro Sues for Manumission, Don Francisco Xavier Sánchez contests (Florida, 1794),” in Colonial Lives, pp. 249-268.
+- Jane Landers, “Felipe Edimboro Sues for Manumission, Don Francisco Xavier Sánchez contests (Florida, 1794),” in Colonial Lives, pp. 249-268. (Canvas)
 
 
 ## Week Ten: Native Labor and Accumulation (Oct 20-Oct 22)
@@ -163,7 +163,7 @@ Enslavement was not the only form of coerced labor exploited by Iberian empires.
 
 **Thursday: Wither the Two Republics?**
 
-- Townsend, _Fifth Sun_, pp. 155-208.
+- Townsend, _Fifth Sun_, pp. 155-208. (TotalAccess)
 
 ## Week Eleven: Love, Hate, and Social Reproduction (Oct 27-Oct 29)
 
@@ -171,11 +171,11 @@ This week, we are focusing on family, sexuality, and social order. The customs a
 
 **Tuesday: Sex in the Archive**
 
-- Black, Chad. "Negotiating Adultery in Colonial Quito," Pp 171-179 in *The Routledge Companion to Sexuality and Colonialism*.
+- Black, Chad. "Negotiating Adultery in Colonial Quito," Pp 171-179 in *The Routledge Companion to Sexuality and Colonialism*. (Canvas)
 
 **Thursday: Is it Love, or Magic?**
 
-- Ruth Behar, “Sexual Witchcraft, Colonialism, and Women’s Powers,” in Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992.
+- Ruth Behar, “Sexual Witchcraft, Colonialism, and Women’s Powers,” in Sexuality and Marriage in Colonial Latin America. Lavrin, ed. Lincoln: Univ. of Nebraska Press, 1992. (Canvas)
 
 ## Week Twelve: Film Review (Nov 3-Nov 5)
 
@@ -196,9 +196,10 @@ By the 1780s, part of the Spanish Empire erupted into open rebellion against the
 
 **Tuesday: Opening the Age of Rebellion**
 
-- “José de Gálvez’s Decrees for the King’s Subjects in Mexico (1769, 1778)” in Mills, et. al., Colonial Latin America, pp. 270-273.
+- “José de Gálvez’s Decrees for the King’s Subjects in Mexico (1769, 1778)” in Mills, et. al., Colonial Latin America, pp. 270-273. (Canvas)
     
-- Pamela Voekel, “Peeing on the Palace: Bodily Resistance to Bourbon Reforms in Mexico City,” Journal of Historical Sociology, Vol. 5 No. 2 (June 1992): 183-208.
+- Pamela Voekel, “Peeing on the Palace: Bodily Resistance to Bourbon Reforms in Mexico City,” Journal of Historical Sociology, Vol. 5 No. 2 (June 1992): 183-208. [UTK Library](https://utk.primo.exlibrisgroup.com/permalink/01UTN_KNOXVILLE/1hkk4oh/cdi_crossref_citationtrail_10_1111_j_1467_6443_1992_tb00161_x)
+
     
 
 **Thursday: Monstrous Disorders**
